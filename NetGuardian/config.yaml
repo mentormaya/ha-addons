@@ -1,9 +1,9 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
-name: Example add-on
-version: "1.2.0"
-slug: example
-description: Example add-on
-url: "https://github.com/home-assistant/addons-example/tree/main/example"
+name: NetGuardian
+version: "0.0.1"
+slug: netguardian
+description: A Home Assistant Add-on to combine, control, monitor and manage the home routers or any network equipments.
+url: "https://github.com/mentormaya/ha-addons/tree/main/netguardian"
 arch:
   - armhf
   - armv7
